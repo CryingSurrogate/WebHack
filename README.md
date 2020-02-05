@@ -22,4 +22,3 @@ For start you need write command : webhack
 --- DO NOT Subscribe to Yan4ik Channel on YouTube!---
 
 MODYFIED BY 0x40
-T.ME/CODINGBOTS
