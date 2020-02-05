@@ -1,3 +1,13 @@
+Ok, this shit is pointless. It just parses a website that is 2000 times more usable than any fancy-ass TUI.
+Link:
+https://www.insecam.org/
+
+Sooo, yeah. I'll still improve this piece of stupid garbage.
+
+https://t.me/HoseMolines
+
+
+---ORIGINAL DESCRIPTION---
 This programm needs for hack others camers CCTV in world.
 For setup you need to write this commands in termux :
 apt-get install python3
@@ -9,9 +19,7 @@ python3 WebHack.py
 Done!
 For start you need write command : webhack
 
---Thanks for downloading and using this programm i really happy :)--
----Subscribe to Yan4ik Channel on YouTube!---
-https://youtube.com/channel/UCu6l8wKI7WGlwoD1It_vcdw
+--- DO NOT Subscribe to Yan4ik Channel on YouTube!---
 
 MODYFIED BY 0x40
 T.ME/CODINGBOTS
