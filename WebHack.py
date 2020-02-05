@@ -276,7 +276,7 @@ print("""
 """)
 time.sleep(1)
 os.system(delet)
-print('------Version 1.0------\n\nMODYFIED BY 0X40 (t.me/codingbots)')
+print('------Version 1.0------\n\nMODYFIED BY 0X40 And PZero')
 
 time.sleep(1)
 os.system(delet)
@@ -653,13 +653,3 @@ if num == 15:
 
 
 print("Готово! Все логи были сохранены в файл logs.txt")
-
-print("""
-Subscribe to Yan4ik Channel on YouTube! 
-https://youtube.com/channel/UCu6l8wKI7WGlwoD1It_vcdw
---Thanks for using this programm!--
-
-MODYFIED BY 0X40 (t.me/codingbots)
-
-------Version 1.0------
-""")
