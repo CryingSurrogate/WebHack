@@ -1,7 +1,11 @@
-import base64
-import os
+import requests,re,os
+import time
+import sys
+import colorama
+from os import system
 from platform import platform
-
+from time import sleep
+import os
 
 puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
 
@@ -12,8 +16,650 @@ else:
     delet = 'clear'
     dr = '/'
 
+print("loading modules...")
+time.sleep(0.05)
 os.system(delet)
+print("lOading modules...")
+time.sleep(0.05)
+os.system(delet)
+print("loAding modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loaDing modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loadIng modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loadiNg modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loadinG modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loading modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loading mOdules...")
+time.sleep(0.1)
+os.system(delet)
+print("loading moDules...")
+time.sleep(0.1)
+os.system(delet)
+print("loading modUles...")
+time.sleep(0.1)
+os.system(delet)
+print("loading moduLes...")
+time.sleep(0.1)
+os.system(delet)
+print("loading modulEs...")
+time.sleep(0.1)
+os.system(delet)
+print("loading moduleS...")
+time.sleep(0.1)
+os.system(delet)
+print("loading modules...")
+time.sleep(0.1)
+os.system(delet)
+print("Loading modules...")
+time.sleep(0.1)
+os.system(delet)
+print("lOading modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loAding modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loaDing modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loadIng modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loadiNg modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loadinG modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loading Modules...")
+time.sleep(0.1)
+os.system(delet)
+print("loading mOdules...")
+time.sleep(0.1)
+os.system(delet)
+print("loading moDules...")
+time.sleep(0.1)
+os.system(delet)
+print("loading modUles...")
+time.sleep(0.1)
+os.system(delet)
+print("loading moduLes...")
+time.sleep(0.1)
+os.system(delet)
+print("loading modulEs...")
+time.sleep(0.1)
+os.system(delet)
+print("loading moduleS...")
+time.sleep(0.1)
+os.system(delet)
+print("loading modules...")
+time.sleep(0.1)
+os.system(delet)
+print("""
+█───█
+█───█
+█─█─█
+█████
+─█─█
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+█───█──███
+█───█──█
+█─█─█──███
+█████──█
+─█─█───███
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+█───█──███──████
+█───█──█────█──██
+█─█─█──███──████
+█████──█────█──██
+─█─█───███──████
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+█───█──███──████───█──█
+█───█──█────█──██──█──█
+█─█─█──███──████───████
+█████──█────█──██──█──█
+─█─█───███──████───█──█
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+█───█──███──████───█──█──████
+█───█──█────█──██──█──█──█──█
+█─█─█──███──████───████──████
+█████──█────█──██──█──█──█──█
+─█─█───███──████───█──█──█──█
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+█───█──███──████───█──█──████──████
+█───█──█────█──██──█──█──█──█──█──█
+█─█─█──███──████───████──████──█
+█████──█────█──██──█──█──█──█──█──█
+─█─█───███──████───█──█──█──█──████
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+█───█──███──████───█──█──████──████──█──█
+█───█──█────█──██──█──█──█──█──█──█──█─█
+█─█─█──███──████───████──████──█─────██
+█████──█────█──██──█──█──█──█──█──█──█─█
+─█─█───███──████───█──█──█──█──████──█──█
+""")
+time.sleep(0.3)
+os.system(delet)
+print("""
+████
+█──██
+████
+█──██
+████
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+████───██─██
+█──██───███
+████─────█
+█──██────█
+████─────█
+─────────█
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+████───██─██──────██─██
+█──██───███────────███
+████─────█──────────█
+█──██────█──────────█
+████─────█──────────█
+─────────█──────────█
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+████───██─██──────██─██
+█──██───███────────███
+████─────█──────────█
+█──██────█──────────█
+████─────█──────────█
+─────────█──────────█
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+████───██─██
+█──██───███
+████─────█
+█──██────█
+████─────█
+─────────█
 
-enc = """aW1wb3J0IHJlcXVlc3RzLHJlLG9zCmltcG9ydCB0aW1lCmltcG9ydCBzeXMKaW1wb3J0IGNvbG9yYW1hCmZyb20gb3MgaW1wb3J0IHN5c3RlbQpmcm9tIHBsYXRmb3JtIGltcG9ydCBwbGF0Zm9ybQpmcm9tIHRpbWUgaW1wb3J0IHNsZWVwCmltcG9ydCBvcwoKcHVrID0gcGxhdGZvcm0oKVswXSwgcGxhdGZvcm0oKVsxXSwgIHBsYXRmb3JtKClbMl0sIHBsYXRmb3JtKClbM10sIHBsYXRmb3JtKClbNF0sIHBsYXRmb3JtKClbNV0sIHBsYXRmb3JtKClbNl0KCmlmIHB1ayA9PSAoJ1cnLCAnaScsICduJywgJ2QnLCAnbycsICd3JywgJ3MnKToKICAgIGRlbGV0ID0gJ2NscycKICAgIGRyID0gJ1xcJwplbHNlOgogICAgZGVsZXQgPSAnY2xlYXInCiAgICBkciA9ICcvJwoKcHJpbnQoImxvYWRpbmcgbW9kdWxlcy4uLiIpCnRpbWUuc2xlZXAoMC4wNSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgibE9hZGluZyBtb2R1bGVzLi4uIikKdGltZS5zbGVlcCgwLjA1KQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb0FkaW5nIG1vZHVsZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgibG9hRGluZyBtb2R1bGVzLi4uIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoImxvYWRJbmcgbW9kdWxlcy4uLiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb2FkaU5nIG1vZHVsZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgibG9hZGluRyBtb2R1bGVzLi4uIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoImxvYWRpbmcgbW9kdWxlcy4uLiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb2FkaW5nIG1PZHVsZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgibG9hZGluZyBtb0R1bGVzLi4uIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoImxvYWRpbmcgbW9kVWxlcy4uLiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb2FkaW5nIG1vZHVMZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgibG9hZGluZyBtb2R1bEVzLi4uIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoImxvYWRpbmcgbW9kdWxlUy4uLiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb2FkaW5nIG1vZHVsZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgiTG9hZGluZyBtb2R1bGVzLi4uIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoImxPYWRpbmcgbW9kdWxlcy4uLiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb0FkaW5nIG1vZHVsZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgibG9hRGluZyBtb2R1bGVzLi4uIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoImxvYWRJbmcgbW9kdWxlcy4uLiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb2FkaU5nIG1vZHVsZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgibG9hZGluRyBtb2R1bGVzLi4uIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoImxvYWRpbmcgTW9kdWxlcy4uLiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb2FkaW5nIG1PZHVsZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgibG9hZGluZyBtb0R1bGVzLi4uIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoImxvYWRpbmcgbW9kVWxlcy4uLiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb2FkaW5nIG1vZHVMZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgibG9hZGluZyBtb2R1bEVzLi4uIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoImxvYWRpbmcgbW9kdWxlUy4uLiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCJsb2FkaW5nIG1vZHVsZXMuLi4iKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgiIiIK4paI4pSA4pSA4pSA4paICuKWiOKUgOKUgOKUgOKWiArilojilIDilojilIDilogK4paI4paI4paI4paI4paICuKUgOKWiOKUgOKWiAoiIiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCIiIgrilojilIDilIDilIDilojilIDilIDilojilojilogK4paI4pSA4pSA4pSA4paI4pSA4pSA4paICuKWiOKUgOKWiOKUgOKWiOKUgOKUgOKWiOKWiOKWiArilojilojilojilojilojilIDilIDilogK4pSA4paI4pSA4paI4pSA4pSA4pSA4paI4paI4paICiIiIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoIiIiCuKWiOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKWiOKWiOKUgOKUgOKWiOKWiOKWiOKWiArilojilIDilIDilIDilojilIDilIDilojilIDilIDilIDilIDilojilIDilIDilojilogK4paI4pSA4paI4pSA4paI4pSA4pSA4paI4paI4paI4pSA4pSA4paI4paI4paI4paICuKWiOKWiOKWiOKWiOKWiOKUgOKUgOKWiOKUgOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKWiArilIDilojilIDilojilIDilIDilIDilojilojilojilIDilIDilojilojilojilogKIiIiKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgiIiIK4paI4pSA4pSA4pSA4paI4pSA4pSA4paI4paI4paI4pSA4pSA4paI4paI4paI4paI4pSA4pSA4pSA4paI4pSA4pSA4paICuKWiOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKWiOKUgOKUgOKWiOKUgOKUgOKWiArilojilIDilojilIDilojilIDilIDilojilojilojilIDilIDilojilojilojilojilIDilIDilIDilojilojilojilogK4paI4paI4paI4paI4paI4pSA4pSA4paI4pSA4pSA4pSA4pSA4paI4pSA4pSA4paI4paI4pSA4pSA4paI4pSA4pSA4paICuKUgOKWiOKUgOKWiOKUgOKUgOKUgOKWiOKWiOKWiOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKUgOKUgOKWiAoiIiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCIiIgrilojilIDilIDilIDilojilIDilIDilojilojilojilIDilIDilojilojilojilojilIDilIDilIDilojilIDilIDilojilIDilIDilojilojilojilogK4paI4pSA4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4pSA4pSA4paI4pSA4pSA4paI4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paICuKWiOKUgOKWiOKUgOKWiOKUgOKUgOKWiOKWiOKWiOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKWiOKWiOKWiOKWiArilojilojilojilojilojilIDilIDilojilIDilIDilIDilIDilojilIDilIDilojilojilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilogK4pSA4paI4pSA4paI4pSA4pSA4pSA4paI4paI4paI4pSA4pSA4paI4paI4paI4paI4pSA4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paICiIiIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoIiIiCuKWiOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKWiOKWiOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKWiOKWiOKWiOKWiArilojilIDilIDilIDilojilIDilIDilojilIDilIDilIDilIDilojilIDilIDilojilojilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilogK4paI4pSA4paI4pSA4paI4pSA4pSA4paI4paI4paI4pSA4pSA4paI4paI4paI4paI4pSA4pSA4pSA4paI4paI4paI4paI4pSA4pSA4paI4paI4paI4paI4pSA4pSA4paICuKWiOKWiOKWiOKWiOKWiOKUgOKUgOKWiOKUgOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiArilIDilojilIDilojilIDilIDilIDilojilojilojilIDilIDilojilojilojilojilIDilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilojilojilojilogKIiIiKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgiIiIK4paI4pSA4pSA4pSA4paI4pSA4pSA4paI4paI4paI4pSA4pSA4paI4paI4paI4paI4pSA4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4paI4paI4paI4pSA4pSA4paI4paI4paI4paI4pSA4pSA4paI4pSA4pSA4paICuKWiOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKWiArilojilIDilojilIDilojilIDilIDilojilojilojilIDilIDilojilojilojilojilIDilIDilIDilojilojilojilojilIDilIDilojilojilojilojilIDilIDilojilIDilIDilIDilIDilIDilojilogK4paI4paI4paI4paI4paI4pSA4pSA4paI4pSA4pSA4pSA4pSA4paI4pSA4pSA4paI4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4paICuKUgOKWiOKUgOKWiOKUgOKUgOKUgOKWiOKWiOKWiOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKWiOKUgOKUgOKWiAoiIiIpCnRpbWUuc2xlZXAoMC4zKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCIiIgrilojilojilojilogK4paI4pSA4pSA4paI4paICuKWiOKWiOKWiOKWiArilojilIDilIDilojilogK4paI4paI4paI4paICiIiIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoIiIiCuKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKWiOKUgOKWiOKWiArilojilIDilIDilojilojilIDilIDilIDilojilojilogK4paI4paI4paI4paI4pSA4pSA4pSA4pSA4pSA4paICuKWiOKUgOKUgOKWiOKWiOKUgOKUgOKUgOKUgOKWiArilojilojilojilojilIDilIDilIDilIDilIDilogK4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4paICiIiIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoIiIiCuKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKWiOKUgOKWiOKWiOKUgOKUgOKUgOKUgOKUgOKUgOKWiOKWiOKUgOKWiOKWiArilojilIDilIDilojilojilIDilIDilIDilojilojilojilIDilIDilIDilIDilIDilIDilIDilIDilojilojilogK4paI4paI4paI4paI4pSA4pSA4pSA4pSA4pSA4paI4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4paICuKWiOKUgOKUgOKWiOKWiOKUgOKUgOKUgOKUgOKWiOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKWiArilojilojilojilojilIDilIDilIDilIDilIDilojilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilogK4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4paI4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4paICiIiIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoIiIiCuKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKWiOKUgOKWiOKWiOKUgOKUgOKUgOKUgOKUgOKUgOKWiOKWiOKUgOKWiOKWiArilojilIDilIDilojilojilIDilIDilIDilojilojilojilIDilIDilIDilIDilIDilIDilIDilIDilojilojilogK4paI4paI4paI4paI4pSA4pSA4pSA4pSA4pSA4paI4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4paICuKWiOKUgOKUgOKWiOKWiOKUgOKUgOKUgOKUgOKWiOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKWiArilojilojilojilojilIDilIDilIDilIDilIDilojilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilogK4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4paI4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4paICiIiIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoIiIiCuKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKWiOKUgOKWiOKWiArilojilIDilIDilojilojilIDilIDilIDilojilojilogK4paI4paI4paI4paI4pSA4pSA4pSA4pSA4pSA4paICuKWiOKUgOKUgOKWiOKWiOKUgOKUgOKUgOKUgOKWiArilojilojilojilojilIDilIDilIDilIDilIDilogK4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4paICgrilojilojilIDilojilojilIDilIDilojilojilojilojilIDilIDilojilIDilIDilogK4pSA4paI4paI4paI4pSA4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4paI4pSA4paICuKUgOKUgOKWiOKUgOKUgOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKWiOKUgOKWiOKWiArilIDilIDilojilIDilIDilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilogK4pSA4pSA4paI4pSA4pSA4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paICuKUgOKUgOKWiAoiIiIpCnRpbWUuc2xlZXAoMC4xKQpvcy5zeXN0ZW0oZGVsZXQpCnByaW50KCIiIgrilojilojilojilojilIDilIDilIDilojilojilIDilojilogK4paI4pSA4pSA4paI4paI4pSA4pSA4pSA4paI4paI4paICuKWiOKWiOKWiOKWiOKUgOKUgOKUgOKUgOKUgOKWiArilojilIDilIDilojilojilIDilIDilIDilIDilogK4paI4paI4paI4paI4pSA4pSA4pSA4pSA4pSA4paICuKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKUgOKWiAoK4paI4paI4pSA4paI4paI4pSA4pSA4paI4paI4paI4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paICuKUgOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKWiOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiArilIDilIDilojilIDilIDilIDilIDilojilojilojilojilIDilIDilojilIDilojilojilIDilIDilojilojilojilogK4pSA4pSA4paI4pSA4pSA4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4pSA4pSA4pSA4paICuKUgOKUgOKWiOKUgOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKUgOKUgOKUgOKWiArilIDilIDilogKIiIiKQp0aW1lLnNsZWVwKDAuMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgiIiIK4paI4paI4paI4paI4pSA4pSA4pSA4paI4paI4pSA4paI4paICuKWiOKUgOKUgOKWiOKWiOKUgOKUgOKUgOKWiOKWiOKWiArilojilojilojilojilIDilIDilIDilIDilIDilogK4paI4pSA4pSA4paI4paI4pSA4pSA4pSA4pSA4paICuKWiOKWiOKWiOKWiOKUgOKUgOKUgOKUgOKUgOKWiArilIDilIDilIDilIDilIDilIDilIDilIDilIDilogKCuKWiOKWiOKUgOKWiOKWiOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKUgOKUgOKUgOKWiOKWiOKWiArilIDilojilojilojilIDilIDilIDilojilIDilIDilojilIDilIDilojilojilIDilojilIDilIDilojilIDilIDilojilIDilIDilIDilogK4pSA4pSA4paI4pSA4pSA4pSA4pSA4paI4paI4paI4paI4pSA4pSA4paI4pSA4paI4paI4pSA4pSA4paI4paI4paI4paI4pSA4pSA4pSA4paICuKUgOKUgOKWiOKUgOKUgOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKWiOKUgOKUgOKUgOKUgOKUgOKWiOKUgOKUgOKUgOKWiArilIDilIDilojilIDilIDilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilIDilIDilIDilojilIDilIDilojilojilogK4pSA4pSA4paICiIiIikKdGltZS5zbGVlcCgwLjEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoIiIiCuKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKWiOKUgOKWiOKWiArilojilIDilIDilojilojilIDilIDilIDilojilojilogK4paI4paI4paI4paI4pSA4pSA4pSA4pSA4pSA4paICuKWiOKUgOKUgOKWiOKWiOKUgOKUgOKUgOKUgOKWiArilojilojilojilojilIDilIDilIDilIDilIDilogK4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4pSA4paICgrilojilojilIDilojilojilIDilIDilojilojilojilojilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilIDilIDilIDilojilojilojilIDilIDilojilIDilIDilogK4pSA4paI4paI4paI4pSA4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4paI4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4pSA4paI4pSA4pSA4pSA4paI4pSA4paICuKUgOKUgOKWiOKUgOKUgOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKWiOKUgOKWiOKWiOKUgOKUgOKWiOKWiOKWiOKWiOKUgOKUgOKUgOKWiOKUgOKUgOKUgOKWiOKWiArilIDilIDilojilIDilIDilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilojilIDilIDilIDilIDilIDilojilIDilIDilIDilojilIDilIDilIDilojilIDilogK4pSA4pSA4paI4pSA4pSA4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4paI4pSA4pSA4pSA4pSA4pSA4paI4pSA4pSA4paI4paI4paI4pSA4pSA4paI4pSA4pSA4paICuKUgOKUgOKWiAoiIiIpCnRpbWUuc2xlZXAoMSkKb3Muc3lzdGVtKGRlbGV0KQpwcmludCgnLS0tLS0tVmVyc2lvbiAxLjAtLS0tLS1cblxuTU9EWUZJRUQgQlkgMFg0MCAodC5tZS9jb2Rpbmdib3RzKScpCgp0aW1lLnNsZWVwKDEpCm9zLnN5c3RlbShkZWxldCkKcHJpbnQoIldlbGNvbWUgdG8gY2FtZXJhLWhhY2shIikKcHJpbnQoIlBsZWFzZSBzZWxlY3QgY291bnRyeSBmb3IgaGFjayA6IikKcHJpbnQoIiIiCjEuIFJ1c3NpYW4gRmVkZXJhdGlvbiAgICAgICAgICAgICAgICAgICAgICAgIAoyLiBVbml0ZWQgU3RhdGVzICAgICAgICAgICAgICAgICAgICAgICAgICAgCjMuIEphcGFuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo0LiBDYW5hZGEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCjUuIE5ldyBaZWFsYW5kICAgICAgICAgICAgICAgICAgICAgICAgICAgCjYuIFVrcmFpbmUgICAgICAgICAgICAgICAgICAgICAgIAo3LiBHZXJtYW55ICAgICAgICAgICAgICAgICAgICAgICAKOC4gQXVzdHJpYSAgICAgICAgICAgICAgICAgICAgICAgCjkuIFNwYWluICAgICAgICAgICAgICAgICAgICAgICAKMTAuIFR1cmtleSAKMTEuIEhvbmcgS29uZwoxMi4gR3JlZWNlCjEzLiBQb3J0dWdhbAoxNC4gU2luZ2FwdXJlCjE1LiBDb2x1bWJpYQoKLS0tLVByb2plY3QgYnkgWWFuNGlrLS0tLQpNT0RZRklFRCBCWSAwWDQwICh0Lm1lL2NvZGluZ2JvdHMpCi0tLS0tLVZlcnNpb24gMS4wLS0tLS0tICAgICAgICAgICAgICAgICAgICAgIAoiIiIpCm51bSA9IGludChpbnB1dCgiY291bnRyeSA6ICIpKQppZiBudW0gPT0gMToKICAgICAgICBwcmludCgiXG4iKQkJCiAgICAgICAgb3Muc3lzdGVtKGRlbGV0KQogICAgICAgIHRyeToKICAgICAgICAgICAgaGVhZGVycyA9IHsnVXNlci1BZ2VudCc6ICdNb3ppbGxhLzUuMCAoWDExOyBMaW51eCBpNjg2OyBydjo2OC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzY4LjAnfSAgICAgICAKICAgICAgICAgICAgZm9yIHBhZ2UgaW4gcmFuZ2UgKDAsODIpOgoJCQkKICAgICAgICAgICAgICAgIHVybCA9ICgiaHR0cHM6Ly93d3cuaW5zZWNhbS5vcmcvZW4vYnljb3VudHJ5L1JVLz9wYWdlPSIrc3RyKHBhZ2UpKQogICAgICAgICAgICAKICAgICAgICAgICAgICAgIHJlcyA9IHJlcXVlc3RzLmdldCh1cmwsIGhlYWRlcnM9aGVhZGVycykKICAgICAgICAgICAgICAgIGZpbmRpcCA9IHJlLmZpbmRhbGwoJ2h0dHA6Ly9cZCsuXGQrLlxkKy5cZCs6XGQrJywgcmVzLnRleHQpCiAgICAgICAgICAgICAgICBjb3VudCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGZvciBfIGluIGZpbmRpcDoKICAgICAgICAgICAgICAgICAgICAgaGFzaWwgPSBmaW5kaXBbY291bnRdCgogICAgICAgICAgICAgICAgICAgICBwcmludCAoIlwwMzNbMTszN20iLGhhc2lsKQoKICAgICAgICAgICAgICAgICAgICAgZiA9IG9wZW4oJ2xvZ3MudHh0JyAsICdhJykKICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShmJ3tmaW5kaXB9JyArICdcbicpCiAgICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQoKICAgICAgICAgICAgICAgICAgICAgY291bnQgKz0gMQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgcHJpbnQgKCIiKSAKaWYgbnVtID09IDI6CiAgICAgICAgcHJpbnQoIlxuIikJCQogICAgICAgIHRyeToKICAgICAgICAgICAgaGVhZGVycyA9IHsnVXNlci1BZ2VudCc6ICdNb3ppbGxhLzUuMCAoWDExOyBMaW51eCBpNjg2OyBydjo2OC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzY4LjAnfSAgICAgICAKICAgICAgICAgICAgZm9yIHBhZ2UgaW4gcmFuZ2UgKDAsNzIwKToKCQkJCiAgICAgICAgICAgICAgICB1cmwgPSAoImh0dHBzOi8vd3d3Lmluc2VjYW0ub3JnL2VuL2J5Y291bnRyeS9VUy8/cGFnZT0iK3N0cihwYWdlKSkKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXMgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgICAgICBmaW5kaXAgPSByZS5maW5kYWxsKCdodHRwOi8vXGQrLlxkKy5cZCsuXGQrOlxkKycsIHJlcy50ZXh0KQogICAgICAgICAgICAgICAgY291bnQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBmb3IgXyBpbiBmaW5kaXA6CiAgICAgICAgICAgICAgICAgICAgIGhhc2lsID0gZmluZGlwW2NvdW50XQoKICAgICAgICAgICAgICAgICAgICAgcHJpbnQgKCJcMDMzWzE7MzdtIixoYXNpbCkKICAgICAgICAgICAgICAgICAgICAgZiA9IG9wZW4oJ2xvZ3MudHh0JyAsICdhJykKICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShmJ3tmaW5kaXB9JyArICdcbicpCiAgICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQogICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICBjb3VudCArPSAxCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBwcmludCAoIiAiKQppZiBudW0gPT0gMzoKICAgICAgICBwcmludCgiXG4iKQkJCiAgICAgICAgdHJ5OgogICAgICAgICAgICBoZWFkZXJzID0geydVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChYMTE7IExpbnV4IGk2ODY7IHJ2OjY4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNjguMCd9ICAgICAgIAogICAgICAgICAgICBmb3IgcGFnZSBpbiByYW5nZSAoMCwyMzIpOgoJCQkKICAgICAgICAgICAgICAgIHVybCA9ICgiaHR0cHM6Ly93d3cuaW5zZWNhbS5vcmcvZW4vYnljb3VudHJ5L0pQLz9wYWdlPSIrc3RyKHBhZ2UpKQogICAgICAgICAgICAKICAgICAgICAgICAgICAgIHJlcyA9IHJlcXVlc3RzLmdldCh1cmwsIGhlYWRlcnM9aGVhZGVycykKICAgICAgICAgICAgICAgIGZpbmRpcCA9IHJlLmZpbmRhbGwoJ2h0dHA6Ly9cZCsuXGQrLlxkKy5cZCs6XGQrJywgcmVzLnRleHQpCiAgICAgICAgICAgICAgICBjb3VudCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGZvciBfIGluIGZpbmRpcDoKICAgICAgICAgICAgICAgICAgICAgaGFzaWwgPSBmaW5kaXBbY291bnRdCgogICAgICAgICAgICAgICAgICAgICBwcmludCAoIlwwMzNbMTszN20iLGhhc2lsKQogICAgICAgICAgICAgICAgICAgICBmID0gb3BlbignbG9ncy50eHQnICwgJ2EnKQogICAgICAgICAgICAgICAgICAgICBmLndyaXRlKGYne2ZpbmRpcH0nICsgJ1xuJykKICAgICAgICAgICAgICAgICAgICAgZi5jbG9zZSgpCiAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHByaW50ICgiICIpCmlmIG51bSA9PSA0OgogICAgICAgIHByaW50KCJcbiIpCQkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGhlYWRlcnMgPSB7J1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFgxMTsgTGludXggaTY4NjsgcnY6NjguMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC82OC4wJ30gICAgICAgCiAgICAgICAgICAgIGZvciBwYWdlIGluIHJhbmdlICgwLDM4KToKCQkJCiAgICAgICAgICAgICAgICB1cmwgPSAoImh0dHBzOi8vd3d3Lmluc2VjYW0ub3JnL2VuL2J5Y291bnRyeS9DQS8/cGFnZT0iK3N0cihwYWdlKSkKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXMgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgICAgICBmaW5kaXAgPSByZS5maW5kYWxsKCdodHRwOi8vXGQrLlxkKy5cZCsuXGQrOlxkKycsIHJlcy50ZXh0KQogICAgICAgICAgICAgICAgY291bnQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBmb3IgXyBpbiBmaW5kaXA6CiAgICAgICAgICAgICAgICAgICAgIGhhc2lsID0gZmluZGlwW2NvdW50XQoKICAgICAgICAgICAgICAgICAgICAgcHJpbnQgKCJcMDMzWzE7MzdtIixoYXNpbCkKICAgICAgICAgICAgICAgICAgICAgZiA9IG9wZW4oJ2xvZ3MudHh0JyAsICdhJykKICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShmJ3tmaW5kaXB9JyArICdcbicpCiAgICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQogICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICBjb3VudCArPSAxCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBwcmludCAoIiAiKSAgICAgICAgICAgICAKaWYgbnVtID09IDU6CiAgICAgICAgcHJpbnQoIlxuIikJCQogICAgICAgIHRyeToKICAgICAgICAgICAgaGVhZGVycyA9IHsnVXNlci1BZ2VudCc6ICdNb3ppbGxhLzUuMCAoWDExOyBMaW51eCBpNjg2OyBydjo2OC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzY4LjAnfSAgICAgICAKICAgICAgICAgICAgZm9yIHBhZ2UgaW4gcmFuZ2UgKDAsNSk6CgkJCQogICAgICAgICAgICAgICAgdXJsID0gKCJodHRwczovL3d3dy5pbnNlY2FtLm9yZy9lbi9ieWNvdW50cnkvTlovP3BhZ2U9IitzdHIocGFnZSkpCiAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcmVzID0gcmVxdWVzdHMuZ2V0KHVybCwgaGVhZGVycz1oZWFkZXJzKQogICAgICAgICAgICAgICAgZmluZGlwID0gcmUuZmluZGFsbCgnaHR0cDovL1xkKy5cZCsuXGQrLlxkKzpcZCsnLCByZXMudGV4dCkKICAgICAgICAgICAgICAgIGNvdW50ID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9yIF8gaW4gZmluZGlwOgogICAgICAgICAgICAgICAgICAgICBoYXNpbCA9IGZpbmRpcFtjb3VudF0KCiAgICAgICAgICAgICAgICAgICAgIHByaW50ICgiXDAzM1sxOzM3bSIsaGFzaWwpCiAgICAgICAgICAgICAgICAgICAgIGYgPSBvcGVuKCdsb2dzLnR4dCcgLCAnYScpCiAgICAgICAgICAgICAgICAgICAgIGYud3JpdGUoZid7ZmluZGlwfScgKyAnXG4nKQogICAgICAgICAgICAgICAgICAgICBmLmNsb3NlKCkKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgY291bnQgKz0gMQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgcHJpbnQgKCIgIikgICAgICAgICAgICAgCmlmIG51bSA9PSA2OgogICAgICAgIHByaW50KCJcbiIpCQkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGhlYWRlcnMgPSB7J1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFgxMTsgTGludXggaTY4NjsgcnY6NjguMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC82OC4wJ30gICAgICAgCiAgICAgICAgICAgIGZvciBwYWdlIGluIHJhbmdlICgwLDIpOgoJCQkKICAgICAgICAgICAgICAgIHVybCA9ICgiaHR0cHM6Ly93d3cuaW5zZWNhbS5vcmcvZW4vYnljb3VudHJ5L1VLLz9wYWdlPSIrc3RyKHBhZ2UpKQogICAgICAgICAgICAKICAgICAgICAgICAgICAgIHJlcyA9IHJlcXVlc3RzLmdldCh1cmwsIGhlYWRlcnM9aGVhZGVycykKICAgICAgICAgICAgICAgIGZpbmRpcCA9IHJlLmZpbmRhbGwoJ2h0dHA6Ly9cZCsuXGQrLlxkKy5cZCs6XGQrJywgcmVzLnRleHQpCiAgICAgICAgICAgICAgICBjb3VudCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGZvciBfIGluIGZpbmRpcDoKICAgICAgICAgICAgICAgICAgICAgaGFzaWwgPSBmaW5kaXBbY291bnRdCgogICAgICAgICAgICAgICAgICAgICBwcmludCAoIlwwMzNbMTszN20iLGhhc2lsKQogICAgICAgICAgICAgICAgICAgICBmID0gb3BlbignbG9ncy50eHQnICwgJ2EnKQogICAgICAgICAgICAgICAgICAgICBmLndyaXRlKGYne2ZpbmRpcH0nICsgJ1xuJykKICAgICAgICAgICAgICAgICAgICAgZi5jbG9zZSgpCiAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHByaW50ICgiICIpIAppZiBudW0gPT0gNzoKICAgICAgICBwcmludCgiXG4iKQkJCiAgICAgICAgdHJ5OgogICAgICAgICAgICBoZWFkZXJzID0geydVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChYMTE7IExpbnV4IGk2ODY7IHJ2OjY4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNjguMCd9ICAgICAgIAogICAgICAgICAgICBmb3IgcGFnZSBpbiByYW5nZSAoMCwxMDcpOgoJCQkKICAgICAgICAgICAgICAgIHVybCA9ICgiaHR0cHM6Ly93d3cuaW5zZWNhbS5vcmcvZW4vYnljb3VudHJ5L0RFLz9wYWdlPSIrc3RyKHBhZ2UpKQogICAgICAgICAgICAKICAgICAgICAgICAgICAgIHJlcyA9IHJlcXVlc3RzLmdldCh1cmwsIGhlYWRlcnM9aGVhZGVycykKICAgICAgICAgICAgICAgIGZpbmRpcCA9IHJlLmZpbmRhbGwoJ2h0dHA6Ly9cZCsuXGQrLlxkKy5cZCs6XGQrJywgcmVzLnRleHQpCiAgICAgICAgICAgICAgICBjb3VudCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGZvciBfIGluIGZpbmRpcDoKICAgICAgICAgICAgICAgICAgICAgaGFzaWwgPSBmaW5kaXBbY291bnRdCgogICAgICAgICAgICAgICAgICAgICBwcmludCAoIlwwMzNbMTszMW0iLGhhc2lsKQogICAgICAgICAgICAgICAgICAgICBmID0gb3BlbignbG9ncy50eHQnICwgJ2EnKQogICAgICAgICAgICAgICAgICAgICBmLndyaXRlKGYne2ZpbmRpcH0nICsgJ1xuJykKICAgICAgICAgICAgICAgICAgICAgZi5jbG9zZSgpCiAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHByaW50ICgiICIpCmlmIG51bSA9PSA4OgogICAgICAgIHByaW50KCJcbiIpCQkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGhlYWRlcnMgPSB7J1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFgxMTsgTGludXggaTY4NjsgcnY6NjguMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC82OC4wJ30gICAgICAgCiAgICAgICAgICAgIGZvciBwYWdlIGluIHJhbmdlICgwLDQ4KToKCQkJCiAgICAgICAgICAgICAgICB1cmwgPSAoImh0dHBzOi8vd3d3Lmluc2VjYW0ub3JnL2VuL2J5Y291bnRyeS9BVC8/cGFnZT0iK3N0cihwYWdlKSkKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXMgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgICAgICBmaW5kaXAgPSByZS5maW5kYWxsKCdodHRwOi8vXGQrLlxkKy5cZCsuXGQrOlxkKycsIHJlcy50ZXh0KQogICAgICAgICAgICAgICAgY291bnQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBmb3IgXyBpbiBmaW5kaXA6CiAgICAgICAgICAgICAgICAgICAgIGhhc2lsID0gZmluZGlwW2NvdW50XQoKICAgICAgICAgICAgICAgICAgICAgcHJpbnQgKCJcMDMzWzE7MzFtIixoYXNpbCkKICAgICAgICAgICAgICAgICAgICAgZiA9IG9wZW4oJ2xvZ3MudHh0JyAsICdhJykKICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShmJ3tmaW5kaXB9JyArICdcbicpCiAgICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQogICAgICAgICAgICAgICAgICAgICBjb3VudCArPSAxCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBwcmludCAoIiAiKSAgICAgICAgICAgCmlmIG51bSA9PSA5OgogICAgICAgIHByaW50KCJcbiIpCQkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGhlYWRlcnMgPSB7J1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFgxMTsgTGludXggaTY4NjsgcnY6NjguMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC82OC4wJ30gICAgICAgCiAgICAgICAgICAgIGZvciBwYWdlIGluIHJhbmdlICgwLDM5KToKCQkJCiAgICAgICAgICAgICAgICB1cmwgPSAoImh0dHBzOi8vd3d3Lmluc2VjYW0ub3JnL2VuL2J5Y291bnRyeS9FUy8/cGFnZT0iK3N0cihwYWdlKSkKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXMgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgICAgICBmaW5kaXAgPSByZS5maW5kYWxsKCdodHRwOi8vXGQrLlxkKy5cZCsuXGQrOlxkKycsIHJlcy50ZXh0KQogICAgICAgICAgICAgICAgY291bnQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBmb3IgXyBpbiBmaW5kaXA6CiAgICAgICAgICAgICAgICAgICAgIGhhc2lsID0gZmluZGlwW2NvdW50XQoKICAgICAgICAgICAgICAgICAgICAgcHJpbnQgKCJcMDMzWzE7MzFtIixoYXNpbCkKICAgICAgICAgICAgICAgICAgICAgZiA9IG9wZW4oJ2xvZ3MudHh0JyAsICdhJykKICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShmJ3tmaW5kaXB9JyArICdcbicpCiAgICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQogICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICBjb3VudCArPSAxCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBwcmludCAoIiAiKSAgCmlmIG51bSA9PSAxMDoKICAgICAgICBwcmludCgiXG4iKQkJCiAgICAgICAgdHJ5OgogICAgICAgICAgICBoZWFkZXJzID0geydVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChYMTE7IExpbnV4IGk2ODY7IHJ2OjY4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNjguMCd9ICAgICAgIAogICAgICAgICAgICBmb3IgcGFnZSBpbiByYW5nZSAoMCw1NCk6CgkJCQogICAgICAgICAgICAgICAgdXJsID0gKCJodHRwczovL3d3dy5pbnNlY2FtLm9yZy9lbi9ieWNvdW50cnkvVFIvP3BhZ2U9IitzdHIocGFnZSkpCiAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcmVzID0gcmVxdWVzdHMuZ2V0KHVybCwgaGVhZGVycz1oZWFkZXJzKQogICAgICAgICAgICAgICAgZmluZGlwID0gcmUuZmluZGFsbCgnaHR0cDovL1xkKy5cZCsuXGQrLlxkKzpcZCsnLCByZXMudGV4dCkKICAgICAgICAgICAgICAgIGNvdW50ID0gMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgZm9yIF8gaW4gZmluZGlwOgogICAgICAgICAgICAgICAgICAgICBoYXNpbCA9IGZpbmRpcFtjb3VudF0KCiAgICAgICAgICAgICAgICAgICAgIHByaW50ICgiXDAzM1sxOzMxbSIsaGFzaWwpCiAgICAgICAgICAgICAgICAgICAgIGYgPSBvcGVuKCdsb2dzLnR4dCcgLCAnYScpCiAgICAgICAgICAgICAgICAgICAgIGYud3JpdGUoZid7ZmluZGlwfScgKyAnXG4nKQogICAgICAgICAgICAgICAgICAgICBmLmNsb3NlKCkKICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgY291bnQgKz0gMQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgcHJpbnQgKCIgIikgICAgICAgICAgICAgCmlmIG51bSA9PSAxMToKICAgICAgICBwcmludCgiXG4iKQkJCiAgICAgICAgdHJ5OgogICAgICAgICAgICBoZWFkZXJzID0geydVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChYMTE7IExpbnV4IGk2ODY7IHJ2OjY4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNjguMCd9ICAgICAgIAogICAgICAgICAgICBmb3IgcGFnZSBpbiByYW5nZSAoMCw3KToKCQkJCiAgICAgICAgICAgICAgICB1cmwgPSAoImh0dHBzOi8vd3d3Lmluc2VjYW0ub3JnL2VuL2J5Y291bnRyeS9ISy8/cGFnZT0iK3N0cihwYWdlKSkKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXMgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgICAgICBmaW5kaXAgPSByZS5maW5kYWxsKCdodHRwOi8vXGQrLlxkKy5cZCsuXGQrOlxkKycsIHJlcy50ZXh0KQogICAgICAgICAgICAgICAgY291bnQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBmb3IgXyBpbiBmaW5kaXA6CiAgICAgICAgICAgICAgICAgICAgIGhhc2lsID0gZmluZGlwW2NvdW50XQoKICAgICAgICAgICAgICAgICAgICAgcHJpbnQgKCJcMDMzWzE7MzFtIixoYXNpbCkKICAgICAgICAgICAgICAgICAgICAgZiA9IG9wZW4oJ2xvZ3MudHh0JyAsICdhJykKICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShmJ3tmaW5kaXB9JyArICdcbicpCiAgICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQogICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICBjb3VudCArPSAxCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBwcmludCAoIiAiKSAgCmlmIG51bSA9PSAxMjoKICAgICAgICBwcmludCgiXG4iKQkJCiAgICAgICAgdHJ5OgogICAgICAgICAgICBoZWFkZXJzID0geydVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChYMTE7IExpbnV4IGk2ODY7IHJ2OjY4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNjguMCd9ICAgICAgIAogICAgICAgICAgICBmb3IgcGFnZSBpbiByYW5nZSAoMCw4KToKCQkJCiAgICAgICAgICAgICAgICB1cmwgPSAoImh0dHBzOi8vd3d3Lmluc2VjYW0ub3JnL2VuL2J5Y291bnRyeS9HUi8/cGFnZT0iK3N0cihwYWdlKSkKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXMgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgICAgICBmaW5kaXAgPSByZS5maW5kYWxsKCdodHRwOi8vXGQrLlxkKy5cZCsuXGQrOlxkKycsIHJlcy50ZXh0KQogICAgICAgICAgICAgICAgY291bnQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBmb3IgXyBpbiBmaW5kaXA6CiAgICAgICAgICAgICAgICAgICAgIGhhc2lsID0gZmluZGlwW2NvdW50XQoKICAgICAgICAgICAgICAgICAgICAgcHJpbnQgKCJcMDMzWzE7MzFtIixoYXNpbCkKICAgICAgICAgICAgICAgICAgICAgZiA9IG9wZW4oJ2xvZ3MudHh0JyAsICdhJykKICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShmJ3tmaW5kaXB9JyArICdcbicpCiAgICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQogICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICBjb3VudCArPSAxCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBwcmludCAoIiAiKSAgICAgICAgICAgCmlmIG51bSA9PSAxMzoKICAgICAgICBwcmludCgiXG4iKQkJCiAgICAgICAgdHJ5OgogICAgICAgICAgICBoZWFkZXJzID0geydVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChYMTE7IExpbnV4IGk2ODY7IHJ2OjY4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNjguMCd9ICAgICAgIAogICAgICAgICAgICBmb3IgcGFnZSBpbiByYW5nZSAoMCw3KToKCQkJCiAgICAgICAgICAgICAgICB1cmwgPSAoImh0dHBzOi8vd3d3Lmluc2VjYW0ub3JnL2VuL2J5Y291bnRyeS9QVC8/cGFnZT0iK3N0cihwYWdlKSkKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXMgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgICAgICBmaW5kaXAgPSByZS5maW5kYWxsKCdodHRwOi8vXGQrLlxkKy5cZCsuXGQrOlxkKycsIHJlcy50ZXh0KQogICAgICAgICAgICAgICAgY291bnQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBmb3IgXyBpbiBmaW5kaXA6CiAgICAgICAgICAgICAgICAgICAgIGhhc2lsID0gZmluZGlwW2NvdW50XQoKICAgICAgICAgICAgICAgICAgICAgcHJpbnQgKCJcMDMzWzE7MzFtIixoYXNpbCkKICAgICAgICAgICAgICAgICAgICAgZiA9IG9wZW4oJ2xvZ3MudHh0JyAsICdhJykKICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShmJ3tmaW5kaXB9JyArICdcbicpCiAgICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQogICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICBjb3VudCArPSAxCiAgICAgICAgZXhjZXB0OgogICAgICAgICAgICBwcmludCAoIiAiKSAgICAgICAgCmlmIG51bSA9PSAxNDoKICAgICAgICBwcmludCgiXG4iKQkJCiAgICAgICAgdHJ5OgogICAgICAgICAgICBoZWFkZXJzID0geydVc2VyLUFnZW50JzogJ01vemlsbGEvNS4wIChYMTE7IExpbnV4IGk2ODY7IHJ2OjY4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNjguMCd9ICAgICAgIAogICAgICAgICAgICBmb3IgcGFnZSBpbiByYW5nZSAoMCw3KToKCQkJCiAgICAgICAgICAgICAgICB1cmwgPSAoImh0dHBzOi8vd3d3Lmluc2VjYW0ub3JnL2VuL2J5Y291bnRyeS9TRy8/cGFnZT0iK3N0cihwYWdlKSkKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICByZXMgPSByZXF1ZXN0cy5nZXQodXJsLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgICAgICAgICBmaW5kaXAgPSByZS5maW5kYWxsKCdodHRwOi8vXGQrLlxkKy5cZCsuXGQrOlxkKycsIHJlcy50ZXh0KQogICAgICAgICAgICAgICAgY291bnQgPSAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBmb3IgXyBpbiBmaW5kaXA6CiAgICAgICAgICAgICAgICAgICAgIGhhc2lsID0gZmluZGlwW2NvdW50XQoKICAgICAgICAgICAgICAgICAgICAgcHJpbnQgKCJcMDMzWzE7MzFtIixoYXNpbCkKICAgICAgICAgICAgICAgICAgICAgZiA9IG9wZW4oJ2xvZ3MudHh0JyAsICdhJykKICAgICAgICAgICAgICAgICAgICAgZi53cml0ZShmJ3tmaW5kaXB9JyArICdcbicpCiAgICAgICAgICAgICAgICAgICAgIGYuY2xvc2UoKQoKICAgICAgICAgICAgICAgICAgICAgY291bnQgKz0gMQogICAgICAgIGV4Y2VwdDoKICAgICAgICAgICAgcHJpbnQgKCIgIikgICAgICAKaWYgbnVtID09IDE1OgogICAgICAgIHByaW50KCJcbiIpCQkKICAgICAgICB0cnk6CiAgICAgICAgICAgIGhlYWRlcnMgPSB7J1VzZXItQWdlbnQnOiAnTW96aWxsYS81LjAgKFgxMTsgTGludXggaTY4NjsgcnY6NjguMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC82OC4wJ30gICAgICAgCiAgICAgICAgICAgIGZvciBwYWdlIGluIHJhbmdlICgwLDYpOgoJCQkKICAgICAgICAgICAgICAgIHVybCA9ICgiaHR0cHM6Ly93d3cuaW5zZWNhbS5vcmcvZW4vYnljb3VudHJ5L0NPLz9wYWdlPSIrc3RyKHBhZ2UpKQogICAgICAgICAgICAKICAgICAgICAgICAgICAgIHJlcyA9IHJlcXVlc3RzLmdldCh1cmwsIGhlYWRlcnM9aGVhZGVycykKICAgICAgICAgICAgICAgIGZpbmRpcCA9IHJlLmZpbmRhbGwoJ2h0dHA6Ly9cZCsuXGQrLlxkKy5cZCs6XGQrJywgcmVzLnRleHQpCiAgICAgICAgICAgICAgICBjb3VudCA9IDAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIGZvciBfIGluIGZpbmRpcDoKICAgICAgICAgICAgICAgICAgICAgaGFzaWwgPSBmaW5kaXBbY291bnRdCgogICAgICAgICAgICAgICAgICAgICBwcmludCAoIlwwMzNbMTszMW0iLGhhc2lsKQogICAgICAgICAgICAgICAgICAgICBmID0gb3BlbignbG9ncy50eHQnICwgJ2EnKQogICAgICAgICAgICAgICAgICAgICBmLndyaXRlKGYne2ZpbmRpcH0nICsgJ1xuJykKICAgICAgICAgICAgICAgICAgICAgZi5jbG9zZSgpCiAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIGNvdW50ICs9IDEKICAgICAgICBleGNlcHQ6CiAgICAgICAgICAgIHByaW50ICgiICIpIAoKCnByaW50KCLQk9C+0YLQvtCy0L4hINCS0YHQtSDQu9C+0LPQuCDQsdGL0LvQuCDRgdC+0YXRgNCw0L3QtdC90Ysg0LIg0YTQsNC50LsgbG9ncy50eHQiKQoKcHJpbnQoIiIiClN1YnNjcmliZSB0byBZYW40aWsgQ2hhbm5lbCBvbiBZb3VUdWJlISAKaHR0cHM6Ly95b3V0dWJlLmNvbS9jaGFubmVsL1VDdTZsOHdLSTdXR2x3b0QxSXRfdmNkdwotLVRoYW5rcyBmb3IgdXNpbmcgdGhpcyBwcm9ncmFtbSEtLQoKTU9EWUZJRUQgQlkgMFg0MCAodC5tZS9jb2Rpbmdib3RzKQoKLS0tLS0tVmVyc2lvbiAxLjAtLS0tLS0KIiIiKQo="""
+██─██──████──█──█
+─███───█──█──██─█
+──█────████──█─██
+──█────█──█──█──█
+──█────█──█──█──█
+──█
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+████───██─██
+█──██───███
+████─────█
+█──██────█
+████─────█
+─────────█
 
-eval(compile(base64.b64decode(enc),'','exec'))
+██─██──████──█──█──█
+─███───█──█──██─█──█──█
+──█────████──█─██──████
+──█────█──█──█──█─────█
+──█────█──█──█──█─────█
+──█
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+████───██─██
+█──██───███
+████─────█
+█──██────█
+████─────█
+─────────█
+
+██─██──████──█──█──█─────███
+─███───█──█──██─█──█──█───█
+──█────████──█─██──████───█
+──█────█──█──█──█─────█───█
+──█────█──█──█──█─────█──███
+──█
+""")
+time.sleep(0.1)
+os.system(delet)
+print("""
+████───██─██
+█──██───███
+████─────█
+█──██────█
+████─────█
+─────────█
+
+██─██──████──█──█──█─────███──█──█
+─███───█──█──██─█──█──█───█───█─█
+──█────████──█─██──████───█───██
+──█────█──█──█──█─────█───█───█─█
+──█────█──█──█──█─────█──███──█──█
+──█
+""")
+time.sleep(1)
+os.system(delet)
+print('------Version 1.0------\n\nMODYFIED BY 0X40 (t.me/codingbots)')
+
+time.sleep(1)
+os.system(delet)
+print("Welcome to camera-hack!")
+print("Please select country for hack :")
+print("""
+1. Russian Federation                        
+2. United States                           
+3. Japan                                        
+4. Canada                                     
+5. New Zealand                           
+6. Ukraine                       
+7. Germany                       
+8. Austria                       
+9. Spain                       
+10. Turkey 
+11. Hong Kong
+12. Greece
+13. Portugal
+14. Singapure
+15. Columbia
+
+----Project by Yan4ik----
+MODYFIED BY 0X40 (t.me/codingbots)
+------Version 1.0------                      
+""")
+num = int(input("country : "))
+if num == 1:
+        print("\n")		
+        os.system(delet)
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,82):
+			
+                url = ("https://www.insecam.org/en/bycountry/RU/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;37m",hasil)
+
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+
+                     count += 1
+        except:
+            print ("") 
+if num == 2:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,720):
+			
+                url = ("https://www.insecam.org/en/bycountry/US/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;37m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")
+if num == 3:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,232):
+			
+                url = ("https://www.insecam.org/en/bycountry/JP/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;37m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")
+if num == 4:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,38):
+			
+                url = ("https://www.insecam.org/en/bycountry/CA/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;37m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")             
+if num == 5:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,5):
+			
+                url = ("https://www.insecam.org/en/bycountry/NZ/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;37m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")             
+if num == 6:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,2):
+			
+                url = ("https://www.insecam.org/en/bycountry/UK/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;37m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ") 
+if num == 7:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,107):
+			
+                url = ("https://www.insecam.org/en/bycountry/DE/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;31m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")
+if num == 8:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,48):
+			
+                url = ("https://www.insecam.org/en/bycountry/AT/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;31m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                     count += 1
+        except:
+            print (" ")           
+if num == 9:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,39):
+			
+                url = ("https://www.insecam.org/en/bycountry/ES/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;31m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")  
+if num == 10:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,54):
+			
+                url = ("https://www.insecam.org/en/bycountry/TR/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;31m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")             
+if num == 11:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,7):
+			
+                url = ("https://www.insecam.org/en/bycountry/HK/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;31m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")  
+if num == 12:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,8):
+			
+                url = ("https://www.insecam.org/en/bycountry/GR/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;31m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")           
+if num == 13:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,7):
+			
+                url = ("https://www.insecam.org/en/bycountry/PT/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;31m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ")        
+if num == 14:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,7):
+			
+                url = ("https://www.insecam.org/en/bycountry/SG/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;31m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+
+                     count += 1
+        except:
+            print (" ")      
+if num == 15:
+        print("\n")		
+        try:
+            headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0'}       
+            for page in range (0,6):
+			
+                url = ("https://www.insecam.org/en/bycountry/CO/?page="+str(page))
+            
+                res = requests.get(url, headers=headers)
+                findip = re.findall('http://\d+.\d+.\d+.\d+:\d+', res.text)
+                count = 0
+                                
+                for _ in findip:
+                     hasil = findip[count]
+
+                     print ("\033[1;31m",hasil)
+                     f = open('logs.txt' , 'a')
+                     f.write(f'{findip}' + '\n')
+                     f.close()
+                 
+                     count += 1
+        except:
+            print (" ") 
+
+
+print("Готово! Все логи были сохранены в файл logs.txt")
+
+print("""
+Subscribe to Yan4ik Channel on YouTube! 
+https://youtube.com/channel/UCu6l8wKI7WGlwoD1It_vcdw
+--Thanks for using this programm!--
+
+MODYFIED BY 0X40 (t.me/codingbots)
+
+------Version 1.0------
+""")
