@@ -1,6 +1,6 @@
 mkdir $HOME/.webhack
 export WHAK=$HOME/.webhack
-export PATH=$WHAK:$PATH
+export PATH=$HOME/.webhack:$PATH
 cp webhack $WHAK/webhack
 chmod +777 $WHAK/webhack
 cp WebHack.py $WHAK/WebHack.py

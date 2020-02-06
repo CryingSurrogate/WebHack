@@ -1,1 +1,2 @@
-python3 $WHAK/WebHack.py
+cd $WHAK
+python3 WebHack.py
