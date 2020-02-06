@@ -8,7 +8,7 @@ chmod +777 $WHAK/WebHack.py
 
 cd $HOME
 echo "WHAK=$HOME/.webhack" >> .bashrc
-echo "PATH=$WHAK:$PATH" >> .bashrc
+echo "PATH=$HOME/.webhack:$PATH" >> .bashrc
 source .bashrc
 pip3 install requests
 pip3 install colorama
