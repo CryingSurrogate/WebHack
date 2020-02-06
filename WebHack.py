@@ -306,8 +306,8 @@ print("""
 MODYFIED BY 0X40 and Priest Zero
 ------Version 1.0------
 """)
-#                                 Какой нахуй UK
-#                                        V
+#                                      Какой нахуй UK
+#                                             V
 counryCodes = ['RU', 'US', 'JP', 'CA', 'NZ', 'UA', 'DE',
     'AT', 'ES', 'TR', 'HK', 'GR', 'PT', 'SG', 'CO']
 
@@ -331,7 +331,7 @@ try:
 
                 print("\033[1;37m", hasil)
 
-                f = open('logs.txt', 'a')
+                f = open('$HOME/logs.txt', 'a')
                 f.write(f'{findip}' + '\n')
                 f.close()
 
