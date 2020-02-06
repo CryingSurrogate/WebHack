@@ -1,2 +1,2 @@
-cd $WHAK
+cd $HOME/.webhack
 python3 WebHack.py
